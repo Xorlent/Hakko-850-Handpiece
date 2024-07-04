@@ -12,7 +12,7 @@
 6. Print.
 7. Using a 5/64" drill bit, chase the 3 case screw holes on the top shell to a total depth of 1/2".
 8. Finish/sand the handle surface as desired.
-9. Assemble with 3mm x 12mm pan head Phillips screws.
+9. Assemble with 3mm x 12mm pan head Phillips screws (same as OEM).
 - For the adventurous:
   - [Top shell](https://cad.onshape.com/documents/10d17fae411ed7ead9d7a654/w/68390f57cb2ea4449538cefd/e/700846687af9504eb3e6631c?renderMode=0&uiState=6685e4b87d7d835994f2503d)  
   - [Bottom shell](https://cad.onshape.com/documents/10d17fae411ed7ead9d7a654/w/68390f57cb2ea4449538cefd/e/e1d0072f1c75191db1e3f018?renderMode=0&uiState=6685e4df7d7d835994f25083)  
