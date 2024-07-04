@@ -10,7 +10,7 @@
 4. Add cylindrical modifiers to the 3 case screw towers on the top shell, ensuring it extends a minimum of 1/2" from the face of the tower.
 5. Edit the modifier objects to specify 80% infill density and 5 wall loops.
 6. Print.
-7. Using a 5/64" drill bit, chase the 3 case screw holes on the top shell to a total dpeth of 1/2".
+7. Using a 5/64" drill bit, chase the 3 case screw holes on the top shell to a total depth of 1/2".
 8. Finish/sand the handle surface as desired.
 9. Assemble with 3mm x 12mm pan head Phillips screws.
 - For the adventurous:
