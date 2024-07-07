@@ -4,7 +4,7 @@
 > Please have the parts printed in a high temperature material like PEEK/PEKK/PEI (ULTEM), although other high-temp materials might work.  
 
 ### Printing and preparation instructions
-1. Install or confirm you are using a .4mm print nozzle.  CF or GF filaments are not recommended.
+1. Install or confirm you are using a .4mm print nozzle.  DO NOT USE filament, as it is conductive.
 2. Parts must be printed in boat hull orientation (using supports) or the mating surface detail will not be satisfactory.
 3. Load the STEP files into your 3D printer slicer, configure .12mm layer height, 15% infill density, 4 wall loops.
 4. Add cylindrical modifiers to the 3 case screw towers on the top shell, ensuring it extends a minimum of 1/2" from the face of the tower.
