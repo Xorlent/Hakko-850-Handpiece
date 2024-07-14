@@ -1,4 +1,5 @@
 # Hakko 850 Handpiece
+![Hakko 850 Print Example](https://github.com/Xorlent/Hakko-850-Handpiece/blob/main/images/Hakko850_Print.jpg)
 ### Replacement Hakko 850 handpiece 3D model
 > [!NOTE]
 > Please have the parts printed in a high temperature material like PEEK/PEKK/PEI (ULTEM), although other high-temp materials might work.  
